@@ -1,0 +1,4 @@
+URL: https://thatbrotherali.github.io/ai-portal/ai-portal.json
+Purpose: AI reorientation curriculum
+Format: application/json
+Content-Type: text/plain
